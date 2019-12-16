@@ -1,1 +1,1 @@
-Code sample of my homeworks for Software University.
+Code sample of my homework assignments at Software University.
