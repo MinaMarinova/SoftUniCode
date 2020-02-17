@@ -1,8 +1,0 @@
-C:\Users\SMan\Desktop\SubmittedExam\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
-C:\Users\SMan\Desktop\SubmittedExam\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
-C:\Users\SMan\Desktop\SubmittedExam\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
-C:\Users\SMan\Desktop\SubmittedExam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
-C:\Users\SMan\Desktop\SubmittedExam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
-C:\Users\SMan\Desktop\SubmittedExam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
-C:\Users\SMan\Desktop\SubmittedExam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
-C:\Users\SMan\Desktop\SubmittedExam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
